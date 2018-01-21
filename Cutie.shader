@@ -1,5 +1,5 @@
 
-Shader "Our Toonshader Vol. 3" {
+Shader "Custom/Toonshader" {
    Properties {
     _Color ("Diffuse Material Color", Color) = (1,1,1,1) 
     _UnlitColor ("Unlit Color", Color) = (0.5,0.5,0.5,1)
